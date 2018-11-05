@@ -1,0 +1,48 @@
+@font-face {
+    font-family: 'Circular-Black';
+    src: url('fonts/CircularStd-Black.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Circular-Med';
+    src: url('fonts/CircularStd-Medium.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circular-Bold';
+    src: url('fonts/CircularStd-Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Circular-Book';
+    src: url('fonts/CircularStd-Book.ttf') format('truetype');
+    font-weight: 500;
+    font-style: normal;
+}
+.fatih{
+  font-family: "Circular-Bold";
+  background: linear-gradient(to right,#009FFF, #ec2F4B);
+  font-size: 300%;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.salam{
+  font-family: "Circular-Book";
+  font-size: 200%;
+  color: Wh;
+}
+.ketua{
+  font-family: "Circular-Book";
+  color: #2f3640;
+  font-size: 100%;
+}
+
+.home{
+  font-family: "Circular-Bold";
+  font-size: 100%;
+  color: Blue;
+}
